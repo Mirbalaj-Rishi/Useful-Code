@@ -1,4 +1,4 @@
-# general purpose menu system
+# general purpose menu system by Mirbalaj Rishi
 
 def mainMenu(Option1, Option2, Option3):
     goodChoice = "no"
